@@ -41,6 +41,7 @@
     list-style-type: none;
     padding-left: 0;
   }
+  z-index: 100;
   background: $body-bg;
   top: 0;
   left: 0;
@@ -103,7 +104,6 @@
   background: image-url('dark-bg.jpg');
   padding: 5em 0;
   margin-bottom: 5em;
-
   h1{
     color: #fff;
   }
